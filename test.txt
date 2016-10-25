@@ -1,0 +1,55 @@
+[ {
+  "title" : "Secretary-A (9)",
+  "name" : "State of Michigan",
+  "jobLocation" : null,
+  "money" : "$18.60 - $24.45 an hour",
+  "description" : "This employee performs advanced secretarial and management assistant assignments in support of a professional manager and staff. Coordinates the ongoing daily"
+}, {
+  "title" : "General Clerk II, Naval Hospital 29 Palms, CA",
+  "name" : "Decypher Technologies",
+  "jobLocation" : null,
+  "money" : null,
+  "description" : "ABOUT DECYPHER Decypher is a leading integrator of professional, technology, and management solutions and services. We provide our services globally to"
+}, {
+  "title" : "Therapeutic Program Worker",
+  "name" : "State of Ohio Jobs",
+  "jobLocation" : null,
+  "money" : "$17.18 an hour",
+  "description" : "THIS OPPORTUNITY IS OPEN TO CURRENT EMPLOYEES OF THE OHIO DEPARTMENT OF DEVELOPMENTAL DISABILITIES ONLY Serves as primary service provider/trainer for one or"
+}, {
+  "title" : "Secretary I",
+  "name" : "State of Oklahoma",
+  "jobLocation" : null,
+  "money" : "$1,649 - $3,022 a month",
+  "description" : "BASIC PURPOSE Positions in this job family are assigned responsibilities for performing confidential secretarial duties for an agency official or"
+}, {
+  "title" : "HOLIDAY CLERK ASSISTANT",
+  "name" : "United States Postal Service",
+  "jobLocation" : null,
+  "money" : "$16.06 an hour",
+  "description" : "United States Postal Service External Publication for Job Posting 10058711 If this job requires qualification on an examination, the number of applicants who"
+}, {
+  "title" : "Patient Registration Representative-Supplemental",
+  "name" : "Mercy Medical Center Redding",
+  "jobLocation" : null,
+  "money" : null,
+  "description" : "The Patient Registration Representative adheres to the organization’s policies and procedures for resolution of patient financial liability. Additionally,"
+}, {
+  "title" : "Youth Counselor",
+  "name" : "North Carolina Office of State Human Resources",
+  "jobLocation" : null,
+  "money" : "$36,761 - $58,006 a year",
+  "description" : "*Salary Grade 68* Recruitment Range - $36,761.00 - $58,006.00. This position is located at Edgecombe Youth Development Center in Rocky Mount, NC. The mission"
+}, {
+  "title" : "Senior Customer Service Representative",
+  "name" : "RichmondGov.com",
+  "jobLocation" : null,
+  "money" : "$30,815 - $49,949 a year",
+  "description" : "The purpose of the class is to assist in the supervision of customer service personnel and to provide customer service for the assigned area of responsibility"
+}, {
+  "title" : "Admin Assistant IV",
+  "name" : "State of Mississippi",
+  "jobLocation" : null,
+  "money" : "$25,391 a year",
+  "description" : "This is administrative work which involves assisting in formulating and directing the activities of an agency, division, institution, or department."
+} ]
